@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<message_catalog package_key="application-track-portlet" package_version="0.1d" locale="en_US" charset="ISO-8859-1">
+
+  <msg key="Admin_options">Admin Options</msg>
+  <msg key="application_general">See a general report about this community</msg>
+  <msg key="application_specific">See a specific report about this community</msg>
+  <msg key="application_title">APPLICATION TRACK</msg>
+</message_catalog>
